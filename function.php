@@ -1,3 +1,3 @@
 <?
 
-    die('testing';)
+    echo 'HELLO';
